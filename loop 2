@@ -1,0 +1,13 @@
+INPUT
+var a;
+var sum = 0;
+
+----------
+PROCESS
+for(a=1;a<11;a+=2)
+{sum + a;
+console.log(a);}
+alert(sum);
+
+----------
+print result;
