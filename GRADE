@@ -1,0 +1,14 @@
+INPUT
+DECLARE
+
+var A1;
+var A2;
+var GRADE;
+
+-------------------------
+PROCESS
+grade=(A+B)/2;
+
+-------------------------
+OUTPUT
+PRINT grade;
