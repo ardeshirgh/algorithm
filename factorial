@@ -1,0 +1,12 @@
+INPUT
+declare
+var a;
+var b;
+var area;
+----------
+PROCESS
+area = a*b;
+
+----------
+OUTPUT
+print result
