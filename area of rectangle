@@ -1,0 +1,11 @@
+INPUT
+var w=INPUT;
+var l=INPUT;
+var A;
+
+------------
+PROCESS
+A=w*l
+
+------------
+PRINT A
