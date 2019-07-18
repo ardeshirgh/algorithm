@@ -5,7 +5,7 @@ var A;
 
 -----------
 PROCESS
-A=h*b/2
+A=h*b/2;
 
 ----------
 PRINT A
