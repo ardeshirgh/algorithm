@@ -1,0 +1,11 @@
+INPUT
+var h=INPUT;
+var b=INPUT;
+var A;
+
+-----------
+PROCESS
+A=h*b/2
+
+----------
+PRINT A
