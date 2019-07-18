@@ -1,6 +1,6 @@
 INPUT 
 DECLARE
-var r;
+var r=INPUT;
 var pi=3.14;
 var A;
 
