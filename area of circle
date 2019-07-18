@@ -1,0 +1,12 @@
+INPUT 
+DECLARE
+var r;
+var pi=3.14;
+var A;
+
+----------
+PROCESS
+A=pi*r^2
+
+---------
+print A
